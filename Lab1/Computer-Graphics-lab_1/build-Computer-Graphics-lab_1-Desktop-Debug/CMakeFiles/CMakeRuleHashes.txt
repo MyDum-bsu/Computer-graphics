@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+ea9fb97dd0a4f9042a095c12ba96f584 CMakeFiles/Colors_autogen

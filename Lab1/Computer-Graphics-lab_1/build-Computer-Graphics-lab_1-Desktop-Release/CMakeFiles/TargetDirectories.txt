@@ -1,0 +1,8 @@
+/home/mydum/Desktop/BSU/semesters/5 semester/КГ/lab1/build-Computer-Graphics-lab_1-Desktop-Release/CMakeFiles/Colors.dir
+/home/mydum/Desktop/BSU/semesters/5 semester/КГ/lab1/build-Computer-Graphics-lab_1-Desktop-Release/CMakeFiles/edit_cache.dir
+/home/mydum/Desktop/BSU/semesters/5 semester/КГ/lab1/build-Computer-Graphics-lab_1-Desktop-Release/CMakeFiles/rebuild_cache.dir
+/home/mydum/Desktop/BSU/semesters/5 semester/КГ/lab1/build-Computer-Graphics-lab_1-Desktop-Release/CMakeFiles/list_install_components.dir
+/home/mydum/Desktop/BSU/semesters/5 semester/КГ/lab1/build-Computer-Graphics-lab_1-Desktop-Release/CMakeFiles/install.dir
+/home/mydum/Desktop/BSU/semesters/5 semester/КГ/lab1/build-Computer-Graphics-lab_1-Desktop-Release/CMakeFiles/install/local.dir
+/home/mydum/Desktop/BSU/semesters/5 semester/КГ/lab1/build-Computer-Graphics-lab_1-Desktop-Release/CMakeFiles/install/strip.dir
+/home/mydum/Desktop/BSU/semesters/5 semester/КГ/lab1/build-Computer-Graphics-lab_1-Desktop-Release/CMakeFiles/Colors_autogen.dir

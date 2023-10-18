@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-aaea94076f911ef4d067.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Colors",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Colors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Colors-Release-b7b793fdd80cd9df238b.json",
+					"name" : "Colors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Colors_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Colors_autogen-Release-6b7002409845699ff22c.json",
+					"name" : "Colors_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mydum/Desktop/BSU/semesters/5 semester/\u041a\u0413/lab1/build-Computer-Graphics-lab_1-Desktop-Release",
+		"source" : "/home/mydum/Desktop/BSU/semesters/5 semester/\u041a\u0413/lab1/Computer-Graphics-lab_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
